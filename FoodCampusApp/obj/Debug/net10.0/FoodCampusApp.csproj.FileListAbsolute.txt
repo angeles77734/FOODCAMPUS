@@ -1,0 +1,14 @@
+C:\home\FoodCampus\FoodCampusApp\bin\Debug\net10.0\FoodCampusApp.exe
+C:\home\FoodCampus\FoodCampusApp\bin\Debug\net10.0\FoodCampusApp.deps.json
+C:\home\FoodCampus\FoodCampusApp\bin\Debug\net10.0\FoodCampusApp.runtimeconfig.json
+C:\home\FoodCampus\FoodCampusApp\bin\Debug\net10.0\FoodCampusApp.dll
+C:\home\FoodCampus\FoodCampusApp\bin\Debug\net10.0\FoodCampusApp.pdb
+C:\home\FoodCampus\FoodCampusApp\obj\Debug\net10.0\FoodCampusApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\FoodCampus\FoodCampusApp\obj\Debug\net10.0\FoodCampusApp.AssemblyInfoInputs.cache
+C:\home\FoodCampus\FoodCampusApp\obj\Debug\net10.0\FoodCampusApp.AssemblyInfo.cs
+C:\home\FoodCampus\FoodCampusApp\obj\Debug\net10.0\FoodCampusApp.csproj.CoreCompileInputs.cache
+C:\home\FoodCampus\FoodCampusApp\obj\Debug\net10.0\FoodCampusApp.dll
+C:\home\FoodCampus\FoodCampusApp\obj\Debug\net10.0\refint\FoodCampusApp.dll
+C:\home\FoodCampus\FoodCampusApp\obj\Debug\net10.0\FoodCampusApp.pdb
+C:\home\FoodCampus\FoodCampusApp\obj\Debug\net10.0\FoodCampusApp.genruntimeconfig.cache
+C:\home\FoodCampus\FoodCampusApp\obj\Debug\net10.0\ref\FoodCampusApp.dll
